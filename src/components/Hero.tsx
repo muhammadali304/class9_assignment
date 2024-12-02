@@ -7,7 +7,7 @@ const Hero = () => {
       {/* Left Section */}
       <div className="w-full md:w-1/2 flex flex-col items-center md:items-start text-center md:text-left">
         <h1 className="text-3xl md:text-5xl font-extrabold pt-10 md:pt-32">
-          I'm Ali Yousuf
+          I am Ali Yousuf
         </h1>
         <p className="text-xl md:text-3xl pt-6 md:pt-12">
           A Frontend Developer
